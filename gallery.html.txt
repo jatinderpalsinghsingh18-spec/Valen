@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Us ❤️</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="gallery">
+
+  <h1 class="title">Forever Us 💕</h1>
+
+  <div class="photo-container">
+    <img src="images/IMG_6269.png" class="photo fade">
+    <img src="images/IMG_6253.jpeg" class="photo slide">
+    <img src="images/IMG_6084.jpeg" class="photo zoom">
+    <img src="images/IMG_6046.jpeg" class="photo fade">
+    <img src="images/IMG_5959.jpeg" class="photo slide">
+    <img src="images/IMG_5951.jpeg" class="photo zoom">
+    <img src="images/IMG_5883.png" class="photo fade">
+    <img src="images/IMG_5880.png" class="photo slide">
+  </div>
+
+  <p class="love-text">Every picture, every moment… I choose you ❤️</p>
+
+</body>
+</html>
+<a href="forever.html" class="valentine-btn" style="margin-top:30px;">
+  One last question 💍
+</a>

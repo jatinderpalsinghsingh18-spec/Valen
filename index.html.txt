@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My Valentine ❤️</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="home">
+
+  <div class="hearts"></div>
+
+  <div class="center-box">
+    <h1>Hey Love 💖</h1>
+    <button class="valentine-btn" onclick="goNext()">
+      Can you be my Valentine? 💌
+    </button>
+  </div>
+
+  <script>
+    function goNext() {
+      window.location.href = "gallery.html";
+    }
+  </script>
+</body>
+</html>
